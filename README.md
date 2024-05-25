@@ -1,5 +1,5 @@
 project overview:
-this is a websit's homepage, which is of a cafe called wide awake coffe co.
+this is a websit's homepage, which is of a cafe called "wide awake coffe co."
 
 project contents:
 it includes:
