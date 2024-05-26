@@ -3,10 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-:root{
-    --bg-main:#7091E6;
-    --bg-primary:#afdde5;
-}
 
 html{
     font-size: 62.5%;
